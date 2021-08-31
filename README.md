@@ -1,5 +1,5 @@
 # Infinitesimal
-Infinitesimal is a Source Generator that turns up the ASP.NET minimal APIs to 11
+Infinitesimal is a Source Generator that turns up the ASP.NET minimal APIs to 11. Let's see how terse we can make this without losing too much functionality. This was made in a span of a couple of hours so there are bound to be bugs and PR's are welcomed.
 
 ![](https://raw.githubusercontent.com/Vake93/Infinitesimal/main/img/Infinitesimal.png)
 
