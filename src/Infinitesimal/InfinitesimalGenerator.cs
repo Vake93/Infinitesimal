@@ -80,11 +80,6 @@ global using Infinitesimal;";
 
             codeBuilder.Append(_templateEnd);
 
-            var endpoints = methods.Where(m => m.AttributeLists
-                .SelectMany(al => al.Attributes)
-                .Any(a => _attributeNames.Contains($"{a}")))
-                .ToArray();
-
             var compilationUnit = SyntaxFactory
                 .ParseCompilationUnit(codeBuilder.ToString())
                 .WithUsings(usingDirectives)
