@@ -20,8 +20,8 @@ namespace Infinitesimal
     {
         private static readonly IEnumerable<string> _HttpGet = new[] { ""GET"" };
         private static readonly IEnumerable<string> _HttpPost = new[] { ""POST"" };
-        private static readonly IEnumerable<string> _patch = new[] { ""PATCH"" };
-        private static readonly IEnumerable<string> _HttpPatch = new[] { ""PUT"" };
+        private static readonly IEnumerable<string> _HttpPatch = new[] { ""PATCH"" };
+        private static readonly IEnumerable<string> _HttpPut = new[] { ""PUT"" };
         private static readonly IEnumerable<string> _HttpDelete = new[] { ""DELETE"" };
 
         public static WebApplication MapFunctions(this WebApplication app)
