@@ -9,7 +9,7 @@ Infinitesimal is a Source Generator that turns up the ASP.NET minimal APIs to 11
   ```dotnet new web```
 - Add the Infinitesimal NuGet Package
  
-  ```dotnet add package Infinitesimal --version 0.0.1```
+  ```dotnet add package Infinitesimal --version 0.0.2```
   
 - Update the ```Program.cs``` with
   ```C#
