@@ -8,8 +8,8 @@
     <Authors>Vishvaka Ranasinghe</Authors>
     <Copyright>2021 Vishvaka Ranasnighe</Copyright>
     <RepositoryUrl>https://github.com/Vake93/Fancy</RepositoryUrl>
-    <AssemblyVersion>0.0.1</AssemblyVersion>
-    <Version>0.0.1</Version>
+    <AssemblyVersion>0.0.2</AssemblyVersion>
+    <Version>0.0.2</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
